@@ -1,2 +1,25 @@
-# PA5_1
-This repo contains the code for the PAA for Module 5
+# Will the Costumer Accept the Coupon
+
+### Problem Statement
+
+ a few paragraphs about describing the problem that you're solving
+
+ ### Analysys 
+
+ #### Data Cleaning
+
+ #### EDA
+
+
+ - include images
+
+
+### Results 
+
+My results were...
+
+#### findings
+
+#### next steps
+
+in the futur etc
